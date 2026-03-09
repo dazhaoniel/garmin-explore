@@ -10,7 +10,7 @@ Start Jupyter Notebook
 jupyter notebook
 ```
 
-Run script to convert .gpx (Strava) and .fit (Garmin) activties to dataframe
+Run script to convert .FIT.gz (Garmin) activties to dataframe then export to csv for my husband
 ```python
 # Start python virtual environment
 source venv/bin/activate
